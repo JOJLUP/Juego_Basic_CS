@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.exe
+C:\Users\USUARIO\Desktop\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.deps.json
+C:\Users\USUARIO\Desktop\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.dll
+C:\Users\USUARIO\Desktop\Juego_Basic\bin\Debug\net10.0-windows\Juego_Basic.pdb
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.dll
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\refint\Juego_Basic.dll
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.pdb
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\Juego_Basic.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Juego_Basic\obj\Debug\net10.0-windows\ref\Juego_Basic.dll
